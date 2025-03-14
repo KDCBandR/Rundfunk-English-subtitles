@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div xml:lang="en">
+      <p begin="20.377s" xml:id="p0" end="21.415s">Autumn.</p>
+      <p begin="21.443s" xml:id="p1" end="24.001s">The air is pregnant with hormones.</p>
+      <p begin="27.11s" xml:id="p2" end="31.19s">By peeing on himself he<br />emphasizes his status and masculinity.</p>
+      <p begin="31.24s" xml:id="p3" end="34.783s">And throwing a lot of grass in the<br />air also makes a deep impression.</p>
+      <p begin="36.816s" xml:id="p4" end="38.099s">They look at each other.</p>
+      <p begin="40.535s" xml:id="p5" end="41.996s">Well, I told you so.</p>
+      <p begin="42.02s" xml:id="p6" end="46.184s">That is a lot more impressive<br />for them than for us.</p>
+      <p begin="47.15s" xml:id="p7" end="51.13s">Let's see what nature further<br />has in store for that kind of behavior.</p>
+      <p begin="51.18s" xml:id="p8" end="54.442s">He's looking around<br />with just one thought.</p>
+      <p begin="56.07s" xml:id="p9" end="59.14s">I would take Roslin at this point.<br />- Is it that bad?</p>
+      <p begin="59.19s" xml:id="p10" end="63.06s">It's off the charts. I'm always almost<br />there, but she teases me so much.</p>
+      <p begin="63.11s" xml:id="p11" end="66.08s">Just look at her.<br />Ohhh, look at that.</p>
+      <p begin="67.556s" xml:id="p12" end="68.962s">Yeah, dude. Hot.</p>
+      <p begin="69.0s" xml:id="p13" end="73.896s">Nature, boys and girls,<br />is just one big dating site.</p>
+      <p begin="75.11s" xml:id="p14" end="78.19s">You just have to clearly say<br />what you want. Just say:</p>
+      <p begin="78.24s" xml:id="p15" end="81.1s">I want to fuck.<br />Who wants to fuck me?</p>
+      <p begin="81.163s" xml:id="p16" end="83.905s">Please, someone.</p>
+      <p begin="83.928s" xml:id="p17" end="87.056s">Fuck me. Who? Who wants to fuck me?</p>
+      <p begin="88.11s" xml:id="p18" end="90.424s">If he asks one more time,<br />then I'll do it.</p>
+      <p begin="90.447s" xml:id="p19" end="93.02s">Fuck? Who?</p>
+      <p begin="93.07s" xml:id="p20" end="96.687s">And there is already one<br />coming. It's that easy.</p>
+      <p begin="97.02s" xml:id="p21" end="98.632s">Or is it that easy?</p>
+      <p begin="99.04s" xml:id="p22" end="102.697s">No, there we go.<br />Typical female behavior.</p>
+      <p begin="102.744s" xml:id="p23" end="105.0s">They leave. Don't want to, headache.</p>
+      <p begin="105.05s" xml:id="p24" end="108.946s">Hey, Mary. Now look at<br />this. Just be a good girlfriend.</p>
+      <p begin="108.993s" xml:id="p25" end="112.02s">Goddammit, Erik. I'm doing a performance.</p>
+      <p begin="112.07s" xml:id="p26" end="116.01s">That's a damn craft. Report<br />to vice-principal Hulst.</p>
+      <p begin="116.06s" xml:id="p27" end="121.592s">It's unbelievable, isn't it? In the<br />middle of a fucking bio-performance.</p>
+      <p begin="122.703s" xml:id="p28" end="124.01s">Tim, what are you doing?</p>
+      <p begin="124.06s" xml:id="p29" end="127.06s">We got kicked out, right?<br />- Just Erik, not you.</p>
+      <p begin="128.07s" xml:id="p30" end="129.19s">Ooo!</p>
+      <p begin="130.114s" xml:id="p31" end="131.714s">Now you too. Get out.</p>
+      <p begin="134.11s" xml:id="p32" end="135.506s">Breathe low.</p>
+      <p begin="140.897s" xml:id="p33" end="141.971s">Thank you.</p>
+      <p begin="145.01s" xml:id="p34" end="148.735s">Guys, this is the second time<br />today that you've been here.</p>
+      <p begin="151.506s" xml:id="p35" end="152.626s">Half past nine.</p>
+      <p begin="154.05s" xml:id="p36" end="158.01s">There is no point in sweeping<br />the schoolyard twice in one day.</p>
+      <p begin="159.925s" xml:id="p37" end="162.316s">There is something else you can do for me.</p>
+      <p begin="165.359s" xml:id="p38" end="168.873s">You've probably heard that I<br />reeled in Ms. Salt, right?</p>
+      <p begin="170.676s" xml:id="p39" end="173.085s">Yep, big time.</p>
+      <p begin="173.35s" xml:id="p40" end="176.31s">I gave something to her and<br />she gave me something too.</p>
+      <p begin="177.765s" xml:id="p41" end="181.734s">The fame and money of the vice-principal.<br />Those women think it's wonderful.</p>
+      <p begin="181.912s" xml:id="p42" end="185.615s">But now Ms. Salt started bitching<br />about getting into a relationship...</p>
+      <p begin="185.626s" xml:id="p43" end="190.663s">And I'm also dating my ex again.<br />And Frederique of course.</p>
+      <p begin="193.438s" xml:id="p44" end="195.752s">No, it's fine. I had it looked into<br />by my lawyer.</p>
+      <p begin="195.779s" xml:id="p45" end="197.823s">She had to re-do the year. It's all good.</p>
+      <p begin="197.839s" xml:id="p46" end="200.683s">But now Salty has to get dumped.</p>
+      <p begin="200.697s" xml:id="p47" end="202.47s">And you'll be the ones to do that.</p>
+      <p begin="206.0s" xml:id="p48" end="208.21s">Aren't you an adult?<br />- So what?</p>
+      <p begin="209.577s" xml:id="p49" end="211.843s">You can do that yourself, right?<br />- So what?</p>
+      <p begin="212.42s" xml:id="p50" end="215.282s">I did that in first grade, breaking<br />up for someone else.</p>
+      <p begin="215.321s" xml:id="p51" end="218.091s">You've been sent out of class.<br />You're going to do it.</p>
+      <p begin="218.14s" xml:id="p52" end="220.01s">Not it.</p>
+      <p begin="231.615s" xml:id="p53" end="232.935s">Listen, Mr. Tree...</p>
+      <p begin="232.95s" xml:id="p54" end="235.916s">I appreciate that Mr. Hulst<br />arranged this tutoring.</p>
+      <p begin="235.94s" xml:id="p55" end="239.104s">But Lars won't be a problem.<br />He's such a very sweet animal.</p>
+      <p begin="240.916s" xml:id="p56" end="242.415s">That's exactly what I mean.</p>
+      <p begin="244.796s" xml:id="p57" end="245.979s">What is this?</p>
+      <p begin="251.661s" xml:id="p58" end="252.583s">A drawing.</p>
+      <p begin="253.326s" xml:id="p59" end="255.264s">Yes, of what?</p>
+      <p begin="257.407s" xml:id="p60" end="258.832s">Um... a man.</p>
+      <p begin="258.98s" xml:id="p61" end="261.151s">A man, but of what species?</p>
+      <p begin="262.229s" xml:id="p62" end="263.836s">Just uh...</p>
+      <p begin="264.065s" xml:id="p63" end="266.389s">a human.<br />- Very good, Viktor. Yes.</p>
+      <p begin="266.644s" xml:id="p64" end="268.3s">And what is this?<br />- A monkey.</p>
+      <p begin="271.093s" xml:id="p65" end="273.89s">Viktor, the drawing doesn't change.<br />- No.</p>
+      <p begin="274.01s" xml:id="p66" end="276.06s">Pay close attention to the figure.<br />- Yes.</p>
+      <p begin="276.11s" xml:id="p67" end="278.03s">What is this?</p>
+      <p begin="278.544s" xml:id="p68" end="279.532s">A human.</p>
+      <p begin="279.589s" xml:id="p69" end="283.125s">Yes, and take a good look, Viktor.<br />One, two.</p>
+      <p begin="283.798s" xml:id="p70" end="284.634s">A monkey.</p>
+      <p begin="285.853s" xml:id="p71" end="288.02s">So that's not quite right yet.</p>
+      <p begin="288.57s" xml:id="p72" end="290.626s">We'll do it again, alright?</p>
+      <p begin="291.2s" xml:id="p73" end="293.1s">A human.</p>
+      <p begin="293.127s" xml:id="p74" end="295.436s">A monkey. A human.</p>
+      <p begin="295.659s" xml:id="p75" end="298.049s">A monkey. A human. A monkey.</p>
+      <p begin="298.08s" xml:id="p76" end="300.825s">A human. A monkey.<br />A human. A monkey.</p>
+      <p begin="300.958s" xml:id="p77" end="301.794s">Pong Feng.</p>
+      <p begin="303.17s" xml:id="p78" end="305.1s">Ahhh, wrong button.</p>
+      <p begin="307.09s" xml:id="p79" end="309.07s">I don't know eh...</p>
+      <p begin="312.09s" xml:id="p80" end="314.04s">Wait, wait.</p>
+      <p begin="314.956s" xml:id="p81" end="316.466s">The big guns.</p>
+      <p begin="322.542s" xml:id="p82" end="324.412s">Hello, Viktor.</p>
+      <p begin="326.316s" xml:id="p83" end="327.21s">Mr. Tree?</p>
+      <p begin="329.576s" xml:id="p84" end="331.793s">Mr. Tree?<br />- Hello, Viktor.</p>
+      <p begin="338.927s" xml:id="p85" end="342.04s">So that's why Salt didn't want me.<br />She was occupied with Hulst.</p>
+      <p begin="342.726s" xml:id="p86" end="344.919s">But you heard him,<br />Salty has to get dumped.</p>
+      <p begin="344.922s" xml:id="p87" end="345.999s">No. Listen, Erik.</p>
+      <p begin="345.999s" xml:id="p88" end="349.321s">We can't hurt her. My only<br />passing grade is from Salt.</p>
+      <p begin="349.37s" xml:id="p89" end="351.673s">Please let's be very nice.</p>
+      <p begin="351.751s" xml:id="p90" end="355.17s">Alright, but I want to be there,<br />'cause I wanna see that bitch burn.</p>
+      <p begin="355.22s" xml:id="p91" end="358.017s">We have to handle this really<br />fucking sensitively.</p>
+      <p begin="358.08s" xml:id="p92" end="359.552s">Hulst, man.</p>
+      <p begin="361.12s" xml:id="p93" end="364.128s">Who knows everything<br />about being dumped?</p>
+      <p begin="364.24s" xml:id="p94" end="365.665s">Your mom.<br />- Yes, and...</p>
+      <p begin="365.666s" xml:id="p95" end="367.392s">Your stepmother. <br />- Yes, and...</p>
+      <p begin="367.431s" xml:id="p96" end="370.416s">Your father's secretary.<br />- As well. And?</p>
+      <p begin="372.06s" xml:id="p97" end="373.18s">Ahhh!</p>
+      <p begin="395.331s" xml:id="p98" end="399.128s">Hey, Barteljaap.<br />We just need your help.</p>
+      <p begin="399.328s" xml:id="p99" end="400.719s">O! Yes, of course.</p>
+      <p begin="401.0s" xml:id="p100" end="404.301s">About Chapter 11?<br />- No, it's more of a private problem.</p>
+      <p begin="405.173s" xml:id="p101" end="407.183s">O? And you want to talk with me...</p>
+      <p begin="408.04s" xml:id="p102" end="412.08s">Don't you want your mentor to...<br />- No, this is only possible with you.</p>
+      <p begin="412.13s" xml:id="p103" end="415.0s">Well, wow. I'm listening. Yes.</p>
+      <p begin="416.05s" xml:id="p104" end="419.926s">Look, you really are a nerd.<br />- Such a nerd. It's ridiculous.</p>
+      <p begin="420.11s" xml:id="p105" end="422.6s">We need to break up with a lady.</p>
+      <p begin="423.0s" xml:id="p106" end="426.07s">You have obviously been<br />dumped many times in your life.</p>
+      <p begin="426.12s" xml:id="p107" end="429.11s">What's the best way to get dumped?</p>
+      <p begin="431.04s" xml:id="p108" end="435.835s">Be short, be concise, be<br />honest, but not too honest.</p>
+      <p begin="435.897s" xml:id="p109" end="438.08s">Breaking up is painful enough in itself.</p>
+      <p begin="438.461s" xml:id="p110" end="441.024s">Kicking a dead horse is unnecessary.</p>
+      <p begin="446.09s" xml:id="p111" end="452.024s">Haha, Barteljaap. We had a bet<br />on who could get the biggest nerd.</p>
+      <p begin="454.528s" xml:id="p112" end="458.864s">Haha, Barteljaap. Your<br />parents paid me to be with you.</p>
+      <p begin="460.986s" xml:id="p113" end="462.856s">Haha, Barteljaap.</p>
+      <p begin="463.644s" xml:id="p114" end="465.514s">Now you've got AIDS too.</p>
+      <p begin="470.613s" xml:id="p115" end="474.44s">Barteljaap is such a poser.<br />- We're not going to do it like that.</p>
+      <p begin="474.503s" xml:id="p116" end="478.01s">We'll just dump that chick with a note,<br />against your wishes.</p>
+      <p begin="478.06s" xml:id="p117" end="479.607s">She deserves that.<br />- What?</p>
+      <p begin="480.135s" xml:id="p118" end="481.698s">You want to break up with me?</p>
+      <p begin="482.01s" xml:id="p119" end="484.113s">No, no.<br />- With a note?</p>
+      <p begin="484.526s" xml:id="p120" end="486.808s">Do I mean so little to you?</p>
+      <p begin="487.246s" xml:id="p121" end="489.331s">Fuck you!</p>
+      <p begin="489.362s" xml:id="p122" end="491.876s">Fuck you!</p>
+      <p begin="491.915s" xml:id="p123" end="493.891s">Fuck you very much!</p>
+      <p begin="493.899s" xml:id="p124" end="496.776s">You suck!<br />- Mary, that wasn't about you at all.</p>
+      <p begin="496.807s" xml:id="p125" end="498.016s">It was about Ms. Salt.</p>
+      <p begin="500.0s" xml:id="p126" end="502.019s">What?<br />- I love you.</p>
+      <p begin="502.121s" xml:id="p127" end="503.447s">You're my little doe.</p>
+      <p begin="503.47s" xml:id="p128" end="505.615s">I want to throw grass for you...</p>
+      <p begin="505.68s" xml:id="p129" end="508.168s">and bash my head into<br />someone else's head.</p>
+      <p begin="508.192s" xml:id="p130" end="511.019s">And I want to run after<br />you screaming all day long.</p>
+      <p begin="511.026s" xml:id="p131" end="514.1s">And I want to piss all over<br />myself and if that's not enough...</p>
+      <p begin="514.15s" xml:id="p132" end="516.15s">then I want to piss all over you too.</p>
+      <p begin="516.2s" xml:id="p133" end="519.02s">Really?<br />- Yes.</p>
+      <p begin="540.94s" xml:id="p134" end="542.09s">You're coming with me.</p>
+      <p begin="542.14s" xml:id="p135" end="545.279s">We have to be with Salt in one minute.<br />- I'll make that easily.</p>
+      <p begin="548.25s" xml:id="p136" end="551.485s">When Jonah was sat in the whale</p>
+      <p begin="551.642s" xml:id="p137" end="553.04s">One...</p>
+      <p begin="553.909s" xml:id="p138" end="555.08s">two...</p>
+      <p begin="555.819s" xml:id="p139" end="556.813s">three.</p>
+      <p begin="568.841s" xml:id="p140" end="570.442s">Oh, you're there too.</p>
+      <p begin="571.116s" xml:id="p141" end="575.31s">Yes, we need to talk to you.<br />- Of course, sit down.</p>
+      <p begin="579.014s" xml:id="p142" end="581.62s">Glass of water?<br />- Yes, please.</p>
+      <p begin="583.016s" xml:id="p143" end="584.779s">Did you fail again?</p>
+      <p begin="585.24s" xml:id="p144" end="587.742s">I didn't.<br />- Then why are you walking so weird?</p>
+      <p begin="595.967s" xml:id="p145" end="598.92s">Mary thinks that jerking<br />off means jerking it <span tts:fontStyle="italic">off</span>.</p>
+      <p begin="602.723s" xml:id="p146" end="603.61s">Ohhh, great.</p>
+      <p begin="607.896s" xml:id="p147" end="611.066s">Ms. Salt, I'll get straight to the point.<br />- Drink up.</p>
+      <p begin="621.103s" xml:id="p148" end="622.384s">Yes, Ms. Salt.</p>
+      <p begin="623.035s" xml:id="p149" end="626.03s">First of all, I think you<br />are a very beautiful woman.</p>
+      <p begin="626.08s" xml:id="p150" end="627.488s">In the prime of your life.</p>
+      <p begin="627.52s" xml:id="p151" end="629.59s">And me...<br />- Hulst is dumping you.</p>
+      <p begin="633.112s" xml:id="p152" end="634.806s">Yes, so that.</p>
+      <p begin="634.807s" xml:id="p153" end="637.332s">But Mr. Hulst is stupid,<br />because he doesn't see...</p>
+      <p begin="637.345s" xml:id="p154" end="638.545s">how nice and...<br />- Over.</p>
+      <p begin="639.896s" xml:id="p155" end="642.184s">Done, finished. Bye!</p>
+      <p begin="642.826s" xml:id="p156" end="643.659s">What?</p>
+      <p begin="643.709s" xml:id="p157" end="647.975s">You're a licked sandwich.<br />I had saved myself for you, whore.</p>
+      <p begin="647.994s" xml:id="p158" end="649.34s">Erik, what are you doing?</p>
+      <p begin="650.639s" xml:id="p159" end="654.06s">Sorry, Ms. Salt.<br />- Guys, this is a misunderstanding.</p>
+      <p begin="654.842s" xml:id="p160" end="657.594s">I have nothing going on<br />with Mr. Hulst at all.</p>
+      <p begin="658.164s" xml:id="p161" end="662.672s">No?<br />- We're just colleagues. Nothing more.</p>
+      <p begin="663.661s" xml:id="p162" end="666.691s">What made you think that?<br />- You're his bitch.</p>
+      <p begin="666.995s" xml:id="p163" end="668.776s">Well, no um...</p>
+      <p begin="668.982s" xml:id="p164" end="670.419s">I have to do something.</p>
+      <p begin="673.04s" xml:id="p165" end="675.137s">Tim, will you make sure<br />Erik stays here?</p>
+      <p begin="675.192s" xml:id="p166" end="676.06s">Yes.</p>
+      <p begin="681.087s" xml:id="p167" end="683.181s">No one can tame me, dude!</p>
+      <p begin="698.689s" xml:id="p168" end="699.742s">Faggot!</p>
+      <p begin="700.97s" xml:id="p169" end="702.699s">Dude, what's wrong with you?</p>
+      <p begin="706.13s" xml:id="p170" end="708.24s">Do you still want to break up?</p>
+      <p begin="709.08s" xml:id="p171" end="712.224s">Whose are you?<br />- Yours! I'm Salty's!</p>
+      <p begin="712.31s" xml:id="p172" end="715.384s">What are you?<br />- I'm a naughty little slut.</p>
+      <p begin="716.162s" xml:id="p173" end="717.117s">Hey!</p>
+      <p begin="719.945s" xml:id="p174" end="721.552s">No, not again. Sorry, Erik.</p>
+    </div>
+  </body>
+</tt>

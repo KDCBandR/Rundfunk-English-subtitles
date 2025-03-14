@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div xml:lang="en">
+      <p begin="18.305s" xml:id="p0" end="19.425s">[In English]<br />So...</p>
+      <p begin="23.805s" xml:id="p1" end="24.665s">Tim.</p>
+      <p begin="32.068s" xml:id="p2" end="34.189s">You failed another exam.</p>
+      <p begin="34.7s" xml:id="p3" end="37.416s">It's absolutely abysmal.</p>
+      <p begin="38.429s" xml:id="p4" end="42.15s">I had to give you a 2.7, and<br />then I'm cutting you some slack...</p>
+      <p begin="42.2s" xml:id="p5" end="46.547s">because you even forgot<br />to write down your own surname.</p>
+      <p begin="47.655s" xml:id="p6" end="49.401s">Do you understand what I'm saying?</p>
+      <p begin="51.645s" xml:id="p7" end="55.716s">Do you understand<br />what I'm saying, Tim?</p>
+      <p begin="56.279s" xml:id="p8" end="57.747s">Yeah, yeah. English.</p>
+      <p begin="60.528s" xml:id="p9" end="63.668s">It's not looking good.<br />What's your grade at the moment?</p>
+      <p begin="65.405s" xml:id="p10" end="66.389s">Yes.</p>
+      <p begin="66.428s" xml:id="p11" end="68.271s">What's your grade, Tim?</p>
+      <p begin="69.847s" xml:id="p12" end="71.105s">Yes, I know.</p>
+      <p begin="74.839s" xml:id="p13" end="76.648s">[In Dutch]<br />What is your grade?</p>
+      <p begin="77.039s" xml:id="p14" end="77.981s">Oh, a three.</p>
+      <p begin="79.573s" xml:id="p15" end="80.792s">English, please.</p>
+      <p begin="80.905s" xml:id="p16" end="83.22s">
+        <span tts:fontStyle="italic">Een dree</span>.<br />A tree.</p>
+      <p begin="85.513s" xml:id="p17" end="86.511s">[In English]<br />A tree?</p>
+      <p begin="86.532s" xml:id="p18" end="87.906s">I'm a lumberjack now?</p>
+      <p begin="87.906s" xml:id="p19" end="92.289s">I went to the forest with my axe<br />and I cut down a tree for you?</p>
+      <p begin="93.104s" xml:id="p20" end="95.01s">Don't you mean 'a three'?</p>
+      <p begin="95.764s" xml:id="p21" end="98.255s">Oh, yeah, yeah. A 'free'.</p>
+      <p begin="100.412s" xml:id="p22" end="102.904s">A free what?<br />A free Africa?</p>
+      <p begin="103.61s" xml:id="p23" end="105.37s">I don't do anything for free.</p>
+      <p begin="105.401s" xml:id="p24" end="107.863s">[In Dutch]<br />Can't I just get a second chance?</p>
+      <p begin="109.452s" xml:id="p25" end="112.145s">If you ask me in English,<br />maybe you can.</p>
+      <p begin="117.075s" xml:id="p26" end="118.841s">I don't get what you're saying.</p>
+      <p begin="119.148s" xml:id="p27" end="121.057s">Are you mentally retarded, Tim?</p>
+      <p begin="125.355s" xml:id="p28" end="126.21s">Yes?</p>
+      <p begin="130.245s" xml:id="p29" end="132.07s">Honey, we've got the room.</p>
+      <p begin="132.744s" xml:id="p30" end="135.652s">We've  got the room in Groningen.<br />We're moving in together!</p>
+      <p begin="136.24s" xml:id="p31" end="138.583s">Wow. Fun, fun.</p>
+      <p begin="138.732s" xml:id="p32" end="140.614s">I hoped you'd be more excited.</p>
+      <p begin="140.64s" xml:id="p33" end="143.545s">Sorry, I had such a strange<br />conversation just now.</p>
+      <p begin="143.576s" xml:id="p34" end="144.63s">I'm still confused.</p>
+      <p begin="145.03s" xml:id="p35" end="146.495s">Did you get a bad grade?</p>
+      <p begin="147.128s" xml:id="p36" end="150.308s">I believe we didn't talk about that.<br />I don't know what she said.</p>
+      <p begin="150.31s" xml:id="p37" end="153.215s">That's okay. I'm going to help you.</p>
+      <p begin="153.256s" xml:id="p38" end="155.07s">Of course.<br />- We're in this together.</p>
+      <p begin="155.676s" xml:id="p39" end="157.04s">We're moving in together!</p>
+      <p begin="157.455s" xml:id="p40" end="159.04s">I'm going to call my parents.</p>
+      <p begin="163.829s" xml:id="p41" end="166.046s">She was excited.<br />You must've aced that test.</p>
+      <p begin="166.791s" xml:id="p42" end="169.11s">Well, not really...<br />- What was your grade?</p>
+      <p begin="170.029s" xml:id="p43" end="171.955s">I get the feeling I didn't do well...</p>
+      <p begin="171.987s" xml:id="p44" end="174.287s">but I'm not so sure.<br />- That is amazing news.</p>
+      <p begin="174.603s" xml:id="p45" end="177.011s">Why?<br />- I had an epiphany tonight...</p>
+      <p begin="177.058s" xml:id="p46" end="179.479s">and everything is clear to me now.<br />- What is it?</p>
+      <p begin="179.48s" xml:id="p47" end="182.512s">Tim, what is the worst thing in the world?<br />- School.</p>
+      <p begin="182.543s" xml:id="p48" end="184.749s">And what is the best thing?<br />- No school.</p>
+      <p begin="184.94s" xml:id="p49" end="185.791s">Exactly.</p>
+      <p begin="185.916s" xml:id="p50" end="186.834s">And that's why...</p>
+      <p begin="187.388s" xml:id="p51" end="189.236s">we are going to stay here next year.</p>
+      <p begin="189.264s" xml:id="p52" end="191.473s">Huh?<br />- It's brilliant.</p>
+      <p begin="191.637s" xml:id="p53" end="192.864s">It's revolutionary.</p>
+      <p begin="192.871s" xml:id="p54" end="195.616s">We spend the next few months<br />doing nothing...</p>
+      <p begin="195.64s" xml:id="p55" end="197.093s">because we won't pass anyway.</p>
+      <p begin="197.12s" xml:id="p56" end="198.64s">Summer holiday starts now.</p>
+      <p begin="199.16s" xml:id="p57" end="201.127s">No worries,<br />I'm giving Lars a wash.</p>
+      <p begin="204.025s" xml:id="p58" end="206.015s">But Erik, I can make it still.</p>
+      <p begin="206.016s" xml:id="p59" end="208.15s">Given the fact we got<br />two months left...</p>
+      <p begin="208.151s" xml:id="p60" end="210.838s">and Ms. Wevers needs<br />a good day to grant me a resit.</p>
+      <p begin="210.839s" xml:id="p61" end="214.505s">5 divided by 7 times 365 divided by 12<br />is 21,7 school days per month.</p>
+      <p begin="214.506s" xml:id="p62" end="217.607s">Statistically, someone is grumpy<br />five percent of the time.</p>
+      <p begin="217.638s" xml:id="p63" end="220.008s">Then Ms. Wevers is<br />0,05 times 21,7 equals...</p>
+      <p begin="220.952s" xml:id="p64" end="222.531s">1,085...</p>
+      <p begin="222.532s" xml:id="p65" end="225.603s">meaning she is grumpy for 2,17<br />schooldays in two months.</p>
+      <p begin="225.617s" xml:id="p66" end="228.333s">Let's say she has two<br />additional lousy days a month...</p>
+      <p begin="228.349s" xml:id="p67" end="232.042s">Four days in total on top of<br />the 2,17 lousy days, makes 6,17...</p>
+      <p begin="232.043s" xml:id="p68" end="234.444s">This is the corridor, once again.</p>
+      <p begin="235.12s" xml:id="p69" end="235.932s">Eddy.</p>
+      <p begin="238.847s" xml:id="p70" end="239.763s">The corridor.</p>
+      <p begin="242.062s" xml:id="p71" end="243.375s">Sorry, guys.</p>
+      <p begin="243.672s" xml:id="p72" end="244.552s">No worries.</p>
+      <p begin="248.059s" xml:id="p73" end="250.448s">Anyways, there are 60 days<br />left in total...</p>
+      <p begin="250.449s" xml:id="p74" end="253.792s">those contain 44 school days and<br />24 classes by her.</p>
+      <p begin="253.793s" xml:id="p75" end="255.903s">6,17 lousy days divided by 44 is...</p>
+      <p begin="256.642s" xml:id="p76" end="261.213s">0,14. That times 24 is 3,36 days<br />that she will be teaching crankily.</p>
+      <p begin="261.236s" xml:id="p77" end="266.299s">So 24 minus that 3,36 is 20,64<br />divided 24 is 0,86...</p>
+      <p begin="266.308s" xml:id="p78" end="268.702s">is an 86 percent chance that<br />if asked nicely...</p>
+      <p begin="268.703s" xml:id="p79" end="270.898s">She will grant me<br />a resit for the exam.</p>
+      <p begin="270.906s" xml:id="p80" end="274.5s">I got a 3,7 without studying, so<br />if I study I can get a 6,7 easily.</p>
+      <p begin="274.523s" xml:id="p81" end="277.02s">That's exactly what I need<br />to just pass English.</p>
+      <p begin="278.788s" xml:id="p82" end="281.778s">But that doesn't change<br />that I'm failing maths.</p>
+      <p begin="281.821s" xml:id="p83" end="283.881s">No chance you can get that grade up.</p>
+      <p begin="284.289s" xml:id="p84" end="287.01s">When did you ever get a<br />passing grade for maths?</p>
+      <p begin="287.06s" xml:id="p85" end="288.21s">Fuck it, let it go.</p>
+      <p begin="289.01s" xml:id="p86" end="292.12s">Don't go studying like your life<br />depends on it just to fail.</p>
+      <p begin="292.365s" xml:id="p87" end="294.857s">We will fail our exams.<br />We'll try again next year.</p>
+      <p begin="295.853s" xml:id="p88" end="297.831s">What about Mary?<br />- Fuck Mary.</p>
+      <p begin="298.864s" xml:id="p89" end="299.958s">I've been trying.</p>
+      <p begin="338.03s" xml:id="p90" end="341.13s">The weather is gonna be nice,<br />we can play soccer all day...</p>
+      <p begin="341.18s" xml:id="p91" end="345.91s">We can watch watch videos all day<br />and say we're doing homework...</p>
+      <p begin="345.911s" xml:id="p92" end="349.386s">although we're watching videos<br />because we don't have to do homework...</p>
+      <p begin="349.387s" xml:id="p93" end="351.743s">so we're watching videos.<br /> - Fuck! That's too cool.</p>
+      <p begin="351.744s" xml:id="p94" end="355.079s">With all due respect,<br />your grades are laughibly bad.</p>
+      <p begin="355.087s" xml:id="p95" end="357.438s">There is no reason why you'd<br />still want to pass.</p>
+      <p begin="357.446s" xml:id="p96" end="360.303s">The reason is Mary who found<br />a place for us in Groningen.</p>
+      <p begin="360.36s" xml:id="p97" end="361.8s">And what about me?</p>
+      <p begin="362.287s" xml:id="p98" end="365.794s">I'm your very, very, very,<br />very, very best friend.</p>
+      <p begin="365.81s" xml:id="p99" end="368.11s">I'm so lonely without you.<br />- I'd be lonely too.</p>
+      <p begin="368.131s" xml:id="p100" end="370.192s">It's the only way. Mary would kill me.</p>
+      <p begin="370.193s" xml:id="p101" end="372.848s">Calm down, moving in<br />together is not that exciting.</p>
+      <p begin="372.872s" xml:id="p102" end="374.628s">Moving in!</p>
+      <p begin="374.636s" xml:id="p103" end="376.385s">We're moving in!</p>
+      <p begin="376.386s" xml:id="p104" end="378.903s">Tim and I are gonna moving in together!</p>
+      <p begin="378.945s" xml:id="p105" end="381.236s">We'll be roommates!<br />- Say it, now.</p>
+      <p begin="382.097s" xml:id="p106" end="383.823s">Who wants to see my pussy?</p>
+      <p begin="383.831s" xml:id="p107" end="386.014s">Who wants to see my pussy?</p>
+      <p begin="386.015s" xml:id="p108" end="388.235s">Alright, I'll tell her.</p>
+      <p begin="388.251s" xml:id="p109" end="390.21s">She should've known it from the start.</p>
+      <p begin="390.21s" xml:id="p110" end="392.412s">I'm a lone wolf, a rolling stone.</p>
+      <p begin="393.61s" xml:id="p111" end="394.453s">Yes?</p>
+      <p begin="396.924s" xml:id="p112" end="398.095s">What's so funny?</p>
+      <p begin="399.439s" xml:id="p113" end="400.839s">I can't say.</p>
+      <p begin="403.623s" xml:id="p114" end="404.69s">Okay.</p>
+      <p begin="407.042s" xml:id="p115" end="410.704s">I can say it, actually. You'll get<br />a surprise test next week.</p>
+      <p begin="414.335s" xml:id="p116" end="417.568s">Alright, but now it's not<br />a surprise anymore.</p>
+      <p begin="419.41s" xml:id="p117" end="420.865s">Since you just told us.</p>
+      <p begin="422.244s" xml:id="p118" end="424.422s">You're right, so it'll be today.</p>
+      <p begin="424.423s" xml:id="p119" end="426.824s">Danke Erik, you can stay after school.</p>
+      <p begin="428.672s" xml:id="p120" end="430.327s">Call that a surprise.</p>
+      <p begin="436.518s" xml:id="p121" end="438.648s">Thank you, Erik.<br />Another test I will fail.</p>
+      <p begin="438.649s" xml:id="p122" end="440.924s">If Mary had known, it<br />wouldn't have mattered.</p>
+      <p begin="440.925s" xml:id="p123" end="443.168s">I can't tell her now<br />because there's a test.</p>
+      <p begin="445.684s" xml:id="p124" end="448.003s">And I won't share this candy with you.</p>
+      <p begin="448.48s" xml:id="p125" end="449.323s">Bye.</p>
+      <p begin="545.129s" xml:id="p126" end="546.128s">Hey, handsome.</p>
+      <p begin="547.464s" xml:id="p127" end="548.651s">I'm not handsome.</p>
+      <p begin="549.385s" xml:id="p128" end="551.587s">Did you make some time free for me?</p>
+      <p begin="553.096s" xml:id="p129" end="554.541s">I won't graduate, I think.</p>
+      <p begin="556.505s" xml:id="p130" end="558.105s">What made you think that?</p>
+      <p begin="558.795s" xml:id="p131" end="563.16s">If you just try your best...<br />- Knock it off, my grades are terrible.</p>
+      <p begin="563.456s" xml:id="p132" end="564.656s">Then what will you do?</p>
+      <p begin="566.526s" xml:id="p133" end="568.306s">You will be all alone next year.</p>
+      <p begin="569.032s" xml:id="p134" end="570.596s">And I'll be in Groningen.</p>
+      <p begin="572.359s" xml:id="p135" end="573.573s">And Erik will be...</p>
+      <p begin="574.17s" xml:id="p136" end="576.21s">God knows where.<br />- He stays here too.</p>
+      <p begin="576.259s" xml:id="p137" end="577.121s">No way.</p>
+      <p begin="577.558s" xml:id="p138" end="580.372s">Erik can pass easily.<br />- He has made up his mind.</p>
+      <p begin="582.818s" xml:id="p139" end="584.268s">But that means...</p>
+      <p begin="585.91s" xml:id="p140" end="587.234s">so...</p>
+      <p begin="589.293s" xml:id="p141" end="591.047s">You'll stay here because of Erik.</p>
+      <p begin="591.586s" xml:id="p142" end="592.847s">No, it's not final yet.</p>
+      <p begin="592.848s" xml:id="p143" end="596.11s">You do whatever your baby does?<br />- You know you are my baby.</p>
+      <p begin="596.152s" xml:id="p144" end="598.376s">Why are you doing this?<br />- What else am I to do?</p>
+      <p begin="598.409s" xml:id="p145" end="601.646s">My grade for maths is a 3, for<br />English it's barely a 5.</p>
+      <p begin="601.647s" xml:id="p146" end="604.739s">I'd need to study for hours a day,<br />and I wouldn't come close.</p>
+      <p begin="604.755s" xml:id="p147" end="606.926s">I can finally enjoy the weather and stuff.</p>
+      <p begin="606.938s" xml:id="p148" end="609.307s">So stay here with your little buddy Erik.</p>
+      <p begin="609.62s" xml:id="p149" end="612.305s">Keep being a high schooler<br />until your twenties.</p>
+      <p begin="612.68s" xml:id="p150" end="615.889s">Can't we have a mature<br />conversation about this?</p>
+      <p begin="615.905s" xml:id="p151" end="617.124s">You're not mature, Tim.</p>
+      <p begin="619.057s" xml:id="p152" end="621.992s">Enjoy those last two<br />months of school. Bye.</p>
+      <p begin="622.0s" xml:id="p153" end="622.833s">Mary!</p>
+      <p begin="624.349s" xml:id="p154" end="625.469s">And this...</p>
+      <p begin="627.02s" xml:id="p155" end="628.14s">Forget about it!</p>
+      <p begin="637.236s" xml:id="p156" end="638.356s">Eddy.</p>
+      <p begin="638.357s" xml:id="p157" end="639.592s">Eddy.<br />- Sorry.</p>
+      <p begin="641.04s" xml:id="p158" end="642.16s">It's okay.</p>
+      <p begin="650.748s" xml:id="p159" end="652.495s">When you feel lonely...</p>
+      <p begin="653.972s" xml:id="p160" end="655.384s">sit on your hand.</p>
+      <p begin="655.405s" xml:id="p161" end="658.111s">Say, 15 or 20 minutes</p>
+      <p begin="658.61s" xml:id="p162" end="660.053s">of sitting on your hand...</p>
+      <p begin="660.753s" xml:id="p163" end="664.64s">you'll lose feeling, and it starts to look<br />white, it'll get numb...</p>
+      <p begin="665.17s" xml:id="p164" end="666.888s">you then close your eyes...</p>
+      <p begin="667.504s" xml:id="p165" end="668.862s">and start jerking off.</p>
+      <p begin="669.209s" xml:id="p166" end="671.552s">It's as if someone else<br />is doing it. Amazing.</p>
+      <p begin="673.319s" xml:id="p167" end="674.96s">Or sit on your dick instead...</p>
+      <p begin="675.727s" xml:id="p168" end="676.675s">and jerk off.</p>
+      <p begin="677.596s" xml:id="p169" end="679.406s">It's like jerking off someone else.</p>
+      <p begin="681.967s" xml:id="p170" end="684.545s">Or you could sit on your dick<br />and on your hand...</p>
+      <p begin="684.585s" xml:id="p171" end="686.931s">it's like someone is<br />jerking off someone else.</p>
+      <p begin="687.375s" xml:id="p172" end="689.004s">Or someone jerking off themselves.</p>
+      <p begin="693.977s" xml:id="p173" end="697.823s">Or you could sit on someone's<br />dick and then jerk off.</p>
+      <p begin="701.489s" xml:id="p174" end="702.32s">Bye.</p>
+      <p begin="716.571s" xml:id="p175" end="717.691s">Mondays.</p>
+      <p begin="718.313s" xml:id="p176" end="719.28s">What happened?</p>
+      <p begin="720.202s" xml:id="p177" end="722.339s">Detention with Heydrich.<br />- Of course.</p>
+      <p begin="724.604s" xml:id="p178" end="725.551s">You?</p>
+      <p begin="727.5s" xml:id="p179" end="728.5s">It's over.</p>
+      <p begin="731.533s" xml:id="p180" end="733.851s">Shit, man.<br />- Yeah, shit.</p>
+      <p begin="736.157s" xml:id="p181" end="738.415s">What shall we do? Do we go?</p>
+      <p begin="739.44s" xml:id="p182" end="740.908s">No, we stay.</p>
+      <p begin="743.644s" xml:id="p183" end="744.545s">We stay?</p>
+      <p begin="749.875s" xml:id="p184" end="751.07s">We stay.</p>
+    </div>
+  </body>
+</tt>

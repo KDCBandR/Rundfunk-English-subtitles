@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" xmlns:tts="http://www.w3.org/ns/ttml#style" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div xml:lang="en">
+      <p begin="00:00:17.309" xml:id="p0" end="00:00:19.090">Yes, yes. That's true, yes.</p>
+      <p begin="00:00:19.140" xml:id="p1" end="00:00:20.517">Yes.</p>
+      <p begin="00:00:21.060" xml:id="p2" end="00:00:22.230">That's right.</p>
+      <p begin="00:00:26.010" xml:id="p3" end="00:00:27.130">Oh yeah.</p>
+      <p begin="00:00:27.180" xml:id="p4" end="00:00:29.240">H-hm.</p>
+      <p begin="00:00:30.040" xml:id="p5" end="00:00:31.160">Yes.</p>
+      <p begin="00:00:34.120" xml:id="p6" end="00:00:37.100">But I'm going to hang up now,<br />because I can see you.</p>
+      <p begin="00:00:37.150" xml:id="p7" end="00:00:39.140">Yes, that's alright. Bye, bye.</p>
+      <p begin="00:00:39.190" xml:id="p8" end="00:00:41.140">Hey dude.<br />Happy birthday.</p>
+      <p begin="00:00:41.190" xml:id="p9" end="00:00:43.080">Thank you.<br />- Eighteen.</p>
+      <p begin="00:00:43.130" xml:id="p10" end="00:00:47.040">Yeah dude, eighteen.<br />Finally grown up, finally legal.</p>
+      <p begin="00:00:47.090" xml:id="p11" end="00:00:50.230">I mean: Ms. Wevers,<br />Ms. Salt, Armani's mom...</p>
+      <p begin="00:00:50.965" xml:id="p12" end="00:00:53.684">they've always wanted me,<br />but now it's allowed.</p>
+      <p begin="00:00:58.170" xml:id="p13" end="00:01:00.150">Wow, cool.</p>
+      <p begin="00:01:00.200" xml:id="p14" end="00:01:03.020">What were you doing?<br />- Oh, look.</p>
+      <p begin="00:01:07.110" xml:id="p15" end="00:01:10.090">No, you shouldn't do that, dude.<br />- But he gets candy, right?</p>
+      <p begin="00:01:10.140" xml:id="p16" end="00:01:14.070">You should leave that first-year alone.<br />- I think he can handle it.</p>
+      <p begin="00:01:14.120" xml:id="p17" end="00:01:16.060">You have to leave him alone!<br />- Why?</p>
+      <p begin="00:01:16.110" xml:id="p18" end="00:01:18.210">Don't know who that is?<br />- No?</p>
+      <p begin="00:01:19.010" xml:id="p19" end="00:01:21.080">That's Red Ronnie.<br />- Who?</p>
+      <p begin="00:01:21.130" xml:id="p20" end="00:01:23.080">Red Ronnie.</p>
+      <p begin="00:01:23.130" xml:id="p21" end="00:01:27.050">Everything you give him<br />he'll shove up his ass.</p>
+      <p begin="00:01:27.100" xml:id="p22" end="00:01:28.983">Everything?<br />- Everything.</p>
+      <p begin="00:01:45.200" xml:id="p23" end="00:01:47.110">Dude, stop.</p>
+      <p begin="00:01:51.170" xml:id="p24" end="00:01:53.598">I'll hit you back.<br />- Do it.</p>
+      <p begin="00:01:54.734" xml:id="p25" end="00:01:56.611">Do it, I'll hit you back <br />three times as hard.</p>
+      <p begin="00:01:56.710" xml:id="p26" end="00:01:57.719">Of course.</p>
+      <p begin="00:01:57.720" xml:id="p27" end="00:01:59.200">I didn't even touch you!</p>
+      <p begin="00:01:59.200" xml:id="p28" end="00:02:02.000">You wanted to.<br />- You're so fucking stupid.</p>
+      <p begin="00:02:02.050" xml:id="p29" end="00:02:04.040">Really, am I stupid? Really?</p>
+      <p begin="00:02:05.120" xml:id="p30" end="00:02:09.030">Then who recieves the punches?<br />- Hey class, good morning.</p>
+      <p begin="00:02:09.080" xml:id="p31" end="00:02:12.550">Well, I do say good morning. But<br />actually something is bothering me.</p>
+      <p begin="00:02:13.030" xml:id="p32" end="00:02:17.230">I have graded your tests and<br />they haven't been done well.</p>
+      <p begin="00:02:18.030" xml:id="p33" end="00:02:20.100">I can only blame myself for that.</p>
+      <p begin="00:02:20.150" xml:id="p34" end="00:02:23.230">So I decided not to publish the grades.</p>
+      <p begin="00:02:24.030" xml:id="p35" end="00:02:26.210">Then we will discuss it today,</p>
+      <p begin="00:02:26.315" xml:id="p36" end="00:02:28.636">And you will get a<br />second chance next week.</p>
+      <p begin="00:02:28.783" xml:id="p37" end="00:02:31.466">I get that that's<br />not ideal for you either.</p>
+      <p begin="00:02:31.508" xml:id="p38" end="00:02:38.140">So I have made a delicious apple pie from<br />my mother's recipe. Pass it to the others.</p>
+      <p begin="00:02:38.190" xml:id="p39" end="00:02:41.220">Well, let's get to it.<br />Are there any questions?</p>
+      <p begin="00:02:42.020" xml:id="p40" end="00:02:45.210">Barteljaap.<br />- Erik. Happy birthday, by the way.</p>
+      <p begin="00:02:46.010" xml:id="p41" end="00:02:47.190">Yes, thank you.</p>
+      <p begin="00:02:47.240" xml:id="p42" end="00:02:49.450">What is it?<br />- At question 1,</p>
+      <p begin="00:02:49.450" xml:id="p43" end="00:02:54.200">I've got the X on one side and<br />the Y on the other side.</p>
+      <p begin="00:02:55.000" xml:id="p44" end="00:02:57.100">But what I don't understand is, um...</p>
+      <p begin="00:02:57.150" xml:id="p45" end="00:02:59.160">how long you've been gay for.</p>
+      <p begin="00:03:02.010" xml:id="p46" end="00:03:03.240">No, but I'm not, uh...</p>
+      <p begin="00:03:05.673" xml:id="p47" end="00:03:08.080">Sorry Barteljaap. That was stupid.</p>
+      <p begin="00:03:08.130" xml:id="p48" end="00:03:11.050">I do have a serious question. At 7A.</p>
+      <p begin="00:03:11.100" xml:id="p49" end="00:03:13.924">It says something<br />about linear growth.</p>
+      <p begin="00:03:14.000" xml:id="p50" end="00:03:17.005">I know about exponential<br />growth and all that, but why...</p>
+      <p begin="00:03:17.052" xml:id="p51" end="00:03:20.095">do you enjoy French<br />kissing with men so much?</p>
+      <p begin="00:03:24.090" xml:id="p52" end="00:03:27.150">Tim and Erik, don't<br />be so childish.</p>
+      <p begin="00:03:27.200" xml:id="p53" end="00:03:29.070">Sorry, Barteljaap.</p>
+      <p begin="00:03:29.120" xml:id="p54" end="00:03:31.090">I do have one question.</p>
+      <p begin="00:03:31.140" xml:id="p55" end="00:03:34.010">At page 3.</p>
+      <p begin="00:03:34.060" xml:id="p56" end="00:03:35.210">Um...</p>
+      <p begin="00:03:37.070" xml:id="p57" end="00:03:40.230">Because what do you like<br />most about having sex with men?</p>
+      <p begin="00:03:42.090" xml:id="p58" end="00:03:44.030">Haha yes.</p>
+      <p begin="00:03:44.080" xml:id="p59" end="00:03:47.843">Well, let's just start with question 1.<br />That seems best to me.</p>
+      <p begin="00:03:49.200" xml:id="p60" end="00:03:51.150">Your cake is gross!</p>
+      <p begin="00:03:53.130" xml:id="p61" end="00:03:55.190">Quit it!</p>
+      <p begin="00:03:57.240" xml:id="p62" end="00:03:59.220">Did you throw my notebook in the ditch?</p>
+      <p begin="00:03:59.533" xml:id="p63" end="00:04:01.483">You hit me all the time, all right?</p>
+      <p begin="00:04:01.620" xml:id="p64" end="00:04:05.020">This notebook had all my<br />homework. You're doing it.</p>
+      <p begin="00:04:05.070" xml:id="p65" end="00:04:07.333">You're doing my homework?<br />- Yes. Calm down.</p>
+      <p begin="00:04:07.333" xml:id="p66" end="00:04:11.130">At three o'clock, otherwise<br />you'll wake up dead tomorrow.</p>
+      <p begin="00:04:18.230" xml:id="p67" end="00:04:21.140">Guys, class isn't over yet.</p>
+      <p begin="00:04:21.190" xml:id="p68" end="00:04:23.060">Come on.</p>
+      <p begin="00:04:31.070" xml:id="p69" end="00:04:34.030">So my father has a<br />very good lawyer anyway.</p>
+      <p begin="00:04:34.080" xml:id="p70" end="00:04:37.070">He's going to put a stop to it anyway.</p>
+      <p begin="00:04:39.060" xml:id="p71" end="00:04:40.733">Happy birthday.<br />- Thank you.</p>
+      <p begin="00:04:55.617" xml:id="p72" end="00:04:58.734">Cookie gets really upset if<br />I have to sit there all day.</p>
+      <p begin="00:05:01.433" xml:id="p73" end="00:05:04.138">The humidity here is just<br />very different than it is at home.</p>
+      <p begin="00:05:06.040" xml:id="p74" end="00:05:08.080">He went to the hairdresser yesterday...</p>
+      <p begin="00:05:08.148" xml:id="p75" end="00:05:10.020">Ladies, pay attention for once!</p>
+      <p begin="00:05:12.070" xml:id="p76" end="00:05:13.867">Are you doing math right now?</p>
+      <p begin="00:05:15.110" xml:id="p77" end="00:05:18.130">You really don't have to do your<br />homework for Barteljaap.</p>
+      <p begin="00:05:18.180" xml:id="p78" end="00:05:20.517">You do homework for yourself,<br />not for someone else.</p>
+      <p begin="00:05:20.533" xml:id="p79" end="00:05:22.733">Ladies, if you don't pay<br />attention it won't work.</p>
+      <p begin="00:05:22.733" xml:id="p80" end="00:05:26.099">You did your test so well<br />yesterday and now this.</p>
+      <p begin="00:05:27.294" xml:id="p81" end="00:05:30.278">At three o'clock I'll be<br />free for half an hour,</p>
+      <p begin="00:05:30.378" xml:id="p82" end="00:05:32.150">so if you'll be ready, then...</p>
+      <p begin="00:05:33.853" xml:id="p83" end="00:05:34.867">Damnit!</p>
+      <p begin="00:05:36.200" xml:id="p84" end="00:05:39.080">Class has started.<br />Tim, please pick up that ball.</p>
+      <p begin="00:05:39.130" xml:id="p85" end="00:05:42.117">Frederique, be quiet.<br />What's going on?</p>
+      <p begin="00:05:42.221" xml:id="p86" end="00:05:44.822">So I took Cookie to school.<br />- Cookie?</p>
+      <p begin="00:05:44.844" xml:id="p87" end="00:05:50.180">We had to bring our pet for biology.<br />Mr. Heydrich saw it and said it wasn't allowed</p>
+      <p begin="00:05:50.230" xml:id="p88" end="00:05:52.120">and then he took him away.</p>
+      <p begin="00:05:52.750" xml:id="p89" end="00:05:54.580">Three o'clock!</p>
+      <p begin="00:05:54.585" xml:id="p90" end="00:05:58.135">So then I had to go to his<br />office and he has to sit there all day.</p>
+      <p begin="00:05:58.180" xml:id="p91" end="00:06:02.080">He put him in a very small dirty <br />hole with Jews and stuff.</p>
+      <p begin="00:06:02.100" xml:id="p92" end="00:06:03.450">I get the feeling that...</p>
+      <p begin="00:06:03.450" xml:id="p93" end="00:06:06.130">Very worrisome indeed,<br />but you have class now.</p>
+      <p begin="00:06:06.180" xml:id="p94" end="00:06:08.536">You'll probably get him back<br />this afternoon.</p>
+      <p begin="00:06:08.554" xml:id="p95" end="00:06:10.292">Alright, now for something else.</p>
+      <p begin="00:06:10.417" xml:id="p96" end="00:06:13.240">We'll be having a new student today: Lars.</p>
+      <p begin="00:06:13.332" xml:id="p97" end="00:06:16.140">Lars will come to class<br />soon. Be a little nice.</p>
+      <p begin="00:06:16.190" xml:id="p98" end="00:06:19.140">Show some understanding.<br />It's not easy for Lars.</p>
+      <p begin="00:06:19.190" xml:id="p99" end="00:06:21.717">A new school, strange people.</p>
+      <p begin="00:06:27.110" xml:id="p100" end="00:06:28.230">Oh, Frederique.</p>
+      <p begin="00:06:29.217" xml:id="p101" end="00:06:31.130">That's so cute.</p>
+      <p begin="00:06:31.180" xml:id="p102" end="00:06:36.070">You dressed him in clothes<br />and all. Hello, hello Cookie.</p>
+      <p begin="00:06:36.120" xml:id="p103" end="00:06:39.289">I thought you meant a pet<br />hamster or something.</p>
+      <p begin="00:06:39.321" xml:id="p104" end="00:06:40.555">That's not Cookie.</p>
+      <p begin="00:06:42.691" xml:id="p105" end="00:06:45.100">Well Goddamnit. Shoo!</p>
+      <p begin="00:06:48.770" xml:id="p106" end="00:06:50.230">Go away, hey!</p>
+      <p begin="00:06:51.030" xml:id="p107" end="00:06:52.150">Hey, Viktor.</p>
+      <p begin="00:06:52.200" xml:id="p108" end="00:06:54.070">That's Lars.</p>
+      <p begin="00:06:57.050" xml:id="p109" end="00:06:58.170">Hi.</p>
+      <p begin="00:07:00.000" xml:id="p110" end="00:07:00.884">Oh, sorry. I...</p>
+      <p begin="00:07:01.056" xml:id="p111" end="00:07:05.070">Apologies.<br />You are Lars, of course.</p>
+      <p begin="00:07:05.160" xml:id="p112" end="00:07:07.210">Sorry, everyone. I...</p>
+      <p begin="00:07:08.010" xml:id="p113" end="00:07:09.150">It's okay.</p>
+      <p begin="00:07:11.715" xml:id="p114" end="00:07:13.080">Hey, Lars.</p>
+      <p begin="00:07:13.130" xml:id="p115" end="00:07:14.491">Look.</p>
+      <p begin="00:07:17.168" xml:id="p116" end="00:07:20.170">Do you want, do you want to sling?</p>
+      <p begin="00:07:26.020" xml:id="p117" end="00:07:27.490">Viktor, stop it.</p>
+      <p begin="00:07:28.020" xml:id="p118" end="00:07:29.160">I need to stop?<br />- Yes.</p>
+      <p begin="00:07:29.210" xml:id="p119" end="00:07:31.140">What do you mean,<br />stop it?</p>
+      <p begin="00:07:31.190" xml:id="p120" end="00:07:34.080">You think he can't<br />do this? Animal hater!</p>
+      <p begin="00:07:34.121" xml:id="p121" end="00:07:38.108">You now he can sling from that rope,<br />to that basket and back again.</p>
+      <p begin="00:07:40.138" xml:id="p122" end="00:07:41.100">Disgusting!</p>
+      <p begin="00:07:41.878" xml:id="p123" end="00:07:45.584">I asked you to be a little<br />nice and understanding to Lars.</p>
+      <p begin="00:07:45.631" xml:id="p124" end="00:07:47.390">I'm not seeing any of that.</p>
+      <p begin="00:07:48.130" xml:id="p125" end="00:07:50.180">They've been to the moon, you know?</p>
+      <p begin="00:07:50.559" xml:id="p126" end="00:07:52.590">They have a higher IQ than some people.</p>
+      <p begin="00:07:56.155" xml:id="p127" end="00:07:58.483">Of course, just walk away.</p>
+      <p begin="00:07:58.529" xml:id="p128" end="00:08:00.438">Just because you can't handle it...</p>
+      <p begin="00:08:00.503" xml:id="p129" end="00:08:03.452">that you are not the only<br />living being on this planet.</p>
+      <p begin="00:08:11.329" xml:id="p130" end="00:08:12.615">Come on, Lars.</p>
+      <p begin="00:08:20.927" xml:id="p131" end="00:08:26.083">All right. The human body is one<br />of the most beautiful things to draw.</p>
+      <p begin="00:08:27.767" xml:id="p132" end="00:08:29.050">Ms Salt.</p>
+      <p begin="00:08:29.102" xml:id="p133" end="00:08:32.196">She treats me so differently<br />now that I'm 18, that horny bastard.</p>
+      <p begin="00:08:32.220" xml:id="p134" end="00:08:35.090">She doesn't want you, stop it.<br />- ...female body...</p>
+      <p begin="00:08:35.140" xml:id="p135" end="00:08:37.516">and the male body.<br /> - You're just jealous.</p>
+      <p begin="00:08:37.532" xml:id="p136" end="00:08:38.131">For what?</p>
+      <p begin="00:08:38.171" xml:id="p137" end="00:08:42.317">That you don't have such a horny slut.<br />- Mary gives me plenty of handjobs.</p>
+      <p begin="00:08:42.335" xml:id="p138" end="00:08:45.230">For six years she has been<br />sowing, that dirty pencil box.</p>
+      <p begin="00:08:45.510" xml:id="p139" end="00:08:48.150">Now that I am legal, <br />she wants to harvest.</p>
+      <p begin="00:08:48.200" xml:id="p140" end="00:08:52.100">Guys, pay attention.<br />This is important material.</p>
+      <p begin="00:08:52.150" xml:id="p141" end="00:08:55.425">You want this in your repertoire.<br />- And what if I don't want that?</p>
+      <p begin="00:08:56.545" xml:id="p142" end="00:09:00.442">Then you can report to me and stay<br />in detention all afternoon.</p>
+      <p begin="00:09:00.489" xml:id="p143" end="00:09:03.784">Did you get that?<br />- You and I get each other very well.</p>
+      <p begin="00:09:04.020" xml:id="p144" end="00:09:07.115">Can I say Salty?<br />- No, but you can stay late.</p>
+      <p begin="00:09:09.304" xml:id="p145" end="00:09:11.000">I'm going to completely<br />soak her.</p>
+      <p begin="00:09:11.050" xml:id="p146" end="00:09:12.525">Dude, she doesn't want you.</p>
+      <p begin="00:09:15.408" xml:id="p147" end="00:09:17.000">Finished.</p>
+      <p begin="00:09:17.034" xml:id="p148" end="00:09:20.084">Okay, let's all pay attention. The balls.</p>
+      <p begin="00:09:20.150" xml:id="p149" end="00:09:24.964">Think an upside down<br />heart, but leave out the end...</p>
+      <p begin="00:09:25.040" xml:id="p150" end="00:09:30.100">and draw two smooth lines to the stem...</p>
+      <p begin="00:09:30.150" xml:id="p151" end="00:09:34.090">make sure there is a<br />nice transition here...</p>
+      <p begin="00:09:34.140" xml:id="p152" end="00:09:36.433">and I want to see firm round balls...</p>
+      <p begin="00:09:37.020" xml:id="p153" end="00:09:39.240">no tangerines in a net.</p>
+      <p begin="00:09:40.040" xml:id="p154" end="00:09:45.710">You draw the hairs by gradually<br />reducing the pressure on the brush.</p>
+      <p begin="00:09:45.750" xml:id="p155" end="00:09:47.070">So from rough to soft...</p>
+      <p begin="00:09:47.120" xml:id="p156" end="00:09:49.160">from rough to soft.</p>
+      <p begin="00:09:49.210" xml:id="p157" end="00:09:52.180">Personally, I prefer shaved balls...</p>
+      <p begin="00:09:52.230" xml:id="p158" end="00:09:55.140">but you don't put paper<br />with paint in your mouth...</p>
+      <p begin="00:09:55.190" xml:id="p159" end="00:09:58.190">so for once hairs won't hurt.</p>
+      <p begin="00:09:58.240" xml:id="p160" end="00:10:02.060">Well, that was my sample cock.</p>
+      <p begin="00:10:02.110" xml:id="p161" end="00:10:05.968">At the end of this week<br />I want your own cock...</p>
+      <p begin="00:10:06.000" xml:id="p162" end="00:10:07.681">in my mailbox, in my drawer.</p>
+      <p begin="00:10:08.020" xml:id="p163" end="00:10:11.508">I don't care how, but I want that dick.</p>
+      <p begin="00:10:11.661" xml:id="p164" end="00:10:14.090">When I say your own cock,<br />I really mean that.</p>
+      <p begin="00:10:14.140" xml:id="p165" end="00:10:18.060">There will be no copying, I know<br />your dicks from the first year camp.</p>
+      <p begin="00:10:18.110" xml:id="p166" end="00:10:21.080">Plagiarism is punished with an F.</p>
+      <p begin="00:10:21.130" xml:id="p167" end="00:10:24.180">You all have sheets and paint.</p>
+      <p begin="00:10:24.230" xml:id="p168" end="00:10:27.306">Lars, I'll give you a larger sheet.</p>
+      <p begin="00:10:28.020" xml:id="p169" end="00:10:31.230">And, Pong Feng, you can draw on this.</p>
+      <p begin="00:10:32.030" xml:id="p170" end="00:10:35.000">Then you also don't have<br />to color it in anymore.</p>
+      <p begin="00:10:35.050" xml:id="p171" end="00:10:37.070">But ma'am, we don't have a dick.</p>
+      <p begin="00:10:37.120" xml:id="p172" end="00:10:39.090">"But we don't have a dick."</p>
+      <p begin="00:10:39.140" xml:id="p173" end="00:10:41.632">Just draw your father's cock.</p>
+      <p begin="00:10:41.633" xml:id="p174" end="00:10:44.380">And if you don't remember<br />how that one looks like...</p>
+      <p begin="00:10:44.467" xml:id="p175" end="00:10:47.731">You can use the cock of<br />Samira's dad as reference.</p>
+      <p begin="00:10:51.230" xml:id="p176" end="00:10:55.070">Ma'am, do you have any large brushes left?</p>
+      <p begin="00:11:12.070" xml:id="p177" end="00:11:16.060">Where is my notebook?<br />Where the fuck is my notebook?</p>
+      <p begin="00:11:17.090" xml:id="p178" end="00:11:18.210">Ronnie!</p>
+      <p begin="00:11:24.000" xml:id="p179" end="00:11:25.120">Oh, sorry.</p>
+      <p begin="00:11:30.455" xml:id="p180" end="00:11:33.130">What's this about?<br />- Hey, Armani.</p>
+      <p begin="00:11:33.180" xml:id="p181" end="00:11:35.190">I'm not Armani, I'm Tim.</p>
+      <p begin="00:11:35.240" xml:id="p182" end="00:11:37.110">Oopsie.</p>
+      <p begin="00:11:38.190" xml:id="p183" end="00:11:41.000">Where the fuck is my homework?</p>
+      <p begin="00:11:41.050" xml:id="p184" end="00:11:43.040">All gone.</p>
+      <p begin="00:11:45.120" xml:id="p185" end="00:11:47.538">You're on thin ice, bud,<br />you better watch out.</p>
+      <p begin="00:11:47.616" xml:id="p186" end="00:11:49.835">Hmm, I can't wait.</p>
+      <p begin="00:11:51.081" xml:id="p187" end="00:11:53.389">Can't you be normal? Freak.</p>
+      <p begin="00:12:01.304" xml:id="p188" end="00:12:02.546">You have to help me.</p>
+      <p begin="00:12:02.640" xml:id="p189" end="00:12:06.217">If I don't finish Armani's homework<br />within thirty minutes, he'll kill me.</p>
+      <p begin="00:12:06.246" xml:id="p190" end="00:12:08.780">No way, I'm get to stay<br />late with Ms. Salt.</p>
+      <p begin="00:12:08.835" xml:id="p191" end="00:12:09.893">She doesn't want you.</p>
+      <p begin="00:12:10.230" xml:id="p192" end="00:12:13.309">Can't I have a bit of fun too?<br />You get spoiled by Mary.</p>
+      <p begin="00:12:13.332" xml:id="p193" end="00:12:16.387">If I don't finish that homework,<br />there will be no fun left.</p>
+      <p begin="00:12:16.442" xml:id="p194" end="00:12:19.648">Listen, fuck Ms. Salt.<br />- That's what I plan to do.</p>
+      <p begin="00:12:19.664" xml:id="p195" end="00:12:21.965">You have to help me, I beg you.</p>
+      <p begin="00:12:23.140" xml:id="p196" end="00:12:25.010">I beg you.</p>
+      <p begin="00:12:31.120" xml:id="p197" end="00:12:33.832">I think you're right.<br />Salt doesn't want me.</p>
+      <p begin="00:12:33.855" xml:id="p198" end="00:12:34.811">Correct, come on.</p>
+      <p begin="00:13:25.090" xml:id="p199" end="00:13:26.210">Dude.</p>
+      <p begin="00:13:28.070" xml:id="p200" end="00:13:29.190">Fuck.</p>
+      <p begin="00:13:40.200" xml:id="p201" end="00:13:43.090">Hey boy,<br />did you fall off your bike?</p>
+      <p begin="00:13:43.140" xml:id="p202" end="00:13:43.906">Fuck!</p>
+      <p begin="00:13:47.240" xml:id="p203" end="00:13:51.240">Tim.</p>
+      <p begin="00:13:57.193" xml:id="p204" end="00:13:59.261">Are our men running away again?</p>
+      <p begin="00:14:00.210" xml:id="p205" end="00:14:02.080">What a shame.</p>
+      <p begin="00:14:02.130" xml:id="p206" end="00:14:05.373">I would've completely drained Erik.</p>
+    </div>
+  </body>
+</tt>

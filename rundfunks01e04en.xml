@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div xml:lang="en">
+      <p begin="17.649s" xml:id="p0" end="22.02s">In the Amazon this plant was used<br />by medicine men for mystical rituals...</p>
+      <p begin="22.07s" xml:id="p1" end="26.19s">but now the substance from this<br />plant is spread around the world...</p>
+      <p begin="26.24s" xml:id="p2" end="29.0s">and is present in all<br />hallucinogenic drugs.</p>
+      <p begin="29.03s" xml:id="p3" end="33.03s">Those drugs are dangerous.<br />People lose their identity.</p>
+      <p begin="33.034s" xml:id="p4" end="35.753s">They no longer know who,<br />what or where they are.</p>
+      <p begin="35.807s" xml:id="p5" end="41.841s">They become delusional. In short,<br />to show how dangerous this is...</p>
+      <p begin="41.927s" xml:id="p6" end="46.528s">I will test this drug myself today...</p>
+      <p begin="47.603s" xml:id="p7" end="48.723s">on Barteljaap.</p>
+      <p begin="50.87s" xml:id="p8" end="53.147s">Yes I will.</p>
+      <p begin="58.252s" xml:id="p9" end="61.04s">Open your mouth. Very well.</p>
+      <p begin="61.542s" xml:id="p10" end="64.756s">Really, if they hear my grades,<br />I can't go out anymore.</p>
+      <p begin="64.757s" xml:id="p11" end="67.14s">I'm not allowed to visit<br />you or Mary, no soccer.</p>
+      <p begin="67.19s" xml:id="p12" end="69.38s">Why do parents' evenings<br />happen so often?</p>
+      <p begin="69.435s" xml:id="p13" end="71.19s">There's so fucking many.<br />- For real.</p>
+      <p begin="72.15s" xml:id="p14" end="73.856s">Very good, just chew.</p>
+      <p begin="78.407s" xml:id="p15" end="79.527s">Am I still on time?</p>
+      <p begin="79.832s" xml:id="p16" end="81.722s">Yeah, he just<br />took it. Take a seat.</p>
+      <p begin="81.756s" xml:id="p17" end="82.763s">Ah, fun!</p>
+      <p begin="90.92s" xml:id="p18" end="92.025s">This is a nightmare.</p>
+      <p begin="95.368s" xml:id="p19" end="97.221s">Get me out. Get me out of here!</p>
+      <p begin="101.392s" xml:id="p20" end="102.532s">I am so lonely.</p>
+      <p begin="106.842s" xml:id="p21" end="107.87s">I hate myself!</p>
+      <p begin="142.136s" xml:id="p22" end="144.646s">What a wonderful<br />profession we have , eh?</p>
+      <p begin="144.779s" xml:id="p23" end="148.563s">My, my! Guys, don't<br />tell this to your parents.</p>
+      <p begin="149.352s" xml:id="p24" end="151.103s">That's what I want to do tonight.</p>
+      <p begin="171.325s" xml:id="p25" end="173.305s">Erm... Mr. Heydrich?</p>
+      <p begin="178.118s" xml:id="p26" end="179.649s">Would you uh...</p>
+      <p begin="180.14s" xml:id="p27" end="183.848s">Please tell our parents<br />during the meetings tonight that...</p>
+      <p begin="184.005s" xml:id="p28" end="187.025s">we will be alright<br />for English and Dutch...</p>
+      <p begin="187.072s" xml:id="p29" end="188.657s">and that you are pretty sure...</p>
+      <p begin="188.696s" xml:id="p30" end="191.235s">that we will make it through the year,<br /><span tts:fontStyle="italic">bitte, sehr</span>?</p>
+      <p begin="193.692s" xml:id="p31" end="195.907s">Ja, I can say that.</p>
+      <p begin="196.605s" xml:id="p32" end="197.735s">Okay.</p>
+      <p begin="198.433s" xml:id="p33" end="201.972s">And I'm also going to say that you<br />keep French kissing each other.</p>
+      <p begin="205.366s" xml:id="p34" end="207.164s">But, but...<br />we don't do that at all.</p>
+      <p begin="207.845s" xml:id="p35" end="209.751s">I know that,<br />but I'm going to say it.</p>
+      <p begin="209.838s" xml:id="p36" end="211.833s">Und I will also say<br />that you peep...</p>
+      <p begin="211.856s" xml:id="p37" end="214.551s">whenever the first year boys<br />are changing clothes.</p>
+      <p begin="215.772s" xml:id="p38" end="219.865s">But we've never done that before.<br />- But that is what I'm going to say.</p>
+      <p begin="220.341s" xml:id="p39" end="224.066s">I will also say that you jerk<br />each other off in my class.</p>
+      <p begin="224.09s" xml:id="p40" end="227.025s">Und that you send<br />nudes to the other boys.</p>
+      <p begin="227.04s" xml:id="p41" end="230.655s">Basically, that you are<br />two dirty perverts.</p>
+      <p begin="232.07s" xml:id="p42" end="233.19s">Damnit.</p>
+      <p begin="237.271s" xml:id="p43" end="239.472s">Unless you show pippi.</p>
+      <p begin="240.836s" xml:id="p44" end="241.745s">What?</p>
+      <p begin="243.03s" xml:id="p45" end="247.07s">Show pippi in front of the<br />whole class. I heard it's special.</p>
+      <p begin="249.0s" xml:id="p46" end="251.08s">Yeah, uh... Yeah, it's okay.</p>
+      <p begin="251.13s" xml:id="p47" end="252.317s">It's great.<br />- Thank you.</p>
+      <p begin="252.34s" xml:id="p48" end="255.04s">Don't mention it.<br />- But I'm not showing it now am I?</p>
+      <p begin="255.355s" xml:id="p49" end="257.265s">Tiny <span tts:fontStyle="italic">Schmutzbuckel</span>.</p>
+      <p begin="258.658s" xml:id="p50" end="261.463s">Pippi, show it.<br /><span tts:fontStyle="italic">Jetzt</span>.</p>
+      <p begin="263.607s" xml:id="p51" end="265.477s">Come on, show it.</p>
+      <p begin="273.313s" xml:id="p52" end="274.758s">Pay attention.</p>
+      <p begin="281.992s" xml:id="p53" end="286.11s">[Singing the German lyrics to Pippi Longstocking]<br /><span tts:fontStyle="italic">Zwei mahl Drei macht Vier, widdewiddewitt <br />und Drei macht Neune</span></p>
+      <p begin="286.151s" xml:id="p54" end="289.851s">
+        <span tts:fontStyle="italic">Ich mach' mir die Welt,<br />widdewidde wie sie mir gefällt</span>
+      </p>
+      <p begin="289.868s" xml:id="p55" end="293.684s">
+        <span tts:fontStyle="italic">Hey Pippi Langstrumpf,<br />trallari trallahey trallahoppsasa</span>
+      </p>
+      <p begin="293.747s" xml:id="p56" end="297.323s">
+        <span tts:fontStyle="italic">Hey, Pippi Langstrumpf,<br />die macht, was ihr gefällt.</span>
+      </p>
+      <p begin="297.358s" xml:id="p57" end="299.186s">
+        <span tts:fontStyle="italic">Sehr gut!</span>
+        <br />That's enough.</p>
+      <p begin="299.21s" xml:id="p58" end="302.0s">I won't tell your parents anything.<br />- Yes!</p>
+      <p begin="303.159s" xml:id="p59" end="304.305s">But I will tell yours.</p>
+      <p begin="304.758s" xml:id="p60" end="306.2s">And also about your grades.</p>
+      <p begin="308.16s" xml:id="p61" end="309.05s">Fuck!</p>
+      <p begin="309.213s" xml:id="p62" end="311.38s">And that's why I like<br />being with your mother</p>
+      <p begin="311.497s" xml:id="p63" end="313.45s">I take her, I fuck her, I do her</p>
+      <p begin="313.776s" xml:id="p64" end="315.995s">I fuck her in the hole from<br />which a baby comes out</p>
+      <p begin="316.02s" xml:id="p65" end="318.383s">I fuck her in the hole from<br />which a fart comes out</p>
+      <p begin="339.193s" xml:id="p66" end="341.176s">Dad. Mom.</p>
+      <p begin="342.07s" xml:id="p67" end="343.567s">I need to tell you something.</p>
+      <p begin="344.402s" xml:id="p68" end="346.239s">It's been going on for a while...</p>
+      <p begin="346.24s" xml:id="p69" end="349.23s">And that's also why things<br />are going so badly at school.</p>
+      <p begin="351.625s" xml:id="p70" end="353.025s">I'm gay.</p>
+      <p begin="353.858s" xml:id="p71" end="356.182s">Yeah, yeah, I think that's<br />pretty good already.</p>
+      <p begin="356.829s" xml:id="p72" end="359.72s">Couple of things.<br />You can be much more dramatic.</p>
+      <p begin="360.294s" xml:id="p73" end="362.1s">Don't be afraid of the silences.</p>
+      <p begin="362.469s" xml:id="p74" end="365.192s">It has to be more gay<br />or they will never believe it.</p>
+      <p begin="366.271s" xml:id="p75" end="368.513s">Fucking hell,<br />that it had to come to this.</p>
+      <p begin="368.591s" xml:id="p76" end="370.343s">It's a win-win, Tim.</p>
+      <p begin="370.358s" xml:id="p77" end="372.67s">Your parents won't be<br />angry at you...</p>
+      <p begin="372.686s" xml:id="p78" end="374.611s">and you're ruining<br />Heydrich's plan.</p>
+      <p begin="377.776s" xml:id="p79" end="379.391s">Love the look, Tim.</p>
+      <p begin="381.575s" xml:id="p80" end="383.425s">Erik, seriously. Pippi?</p>
+      <p begin="383.675s" xml:id="p81" end="386.08s">Fuck you, Ronnie.<br />- I'm going to savour this.</p>
+      <p begin="391.348s" xml:id="p82" end="393.447s">Lars' parents may come in.</p>
+      <p begin="400.335s" xml:id="p83" end="404.14s">Oh, oopsie. Wrong classroom.<br />Lars's parents.</p>
+      <p begin="405.057s" xml:id="p84" end="406.275s">That's us.</p>
+      <p begin="407.05s" xml:id="p85" end="410.674s">No, Lars.<br />- So this is what Lars was talking about.</p>
+      <p begin="410.767s" xml:id="p86" end="412.704s">We are Lars's parents.</p>
+      <p begin="426.253s" xml:id="p87" end="427.26s">No.</p>
+      <p begin="428.01s" xml:id="p88" end="429.948s">Lars.<br />- Indeed.</p>
+      <p begin="430.298s" xml:id="p89" end="431.512s">That Lars.</p>
+      <p begin="438.311s" xml:id="p90" end="439.249s">Excuse me?</p>
+      <p begin="442.055s" xml:id="p91" end="444.346s">Could we talk about Lars now?</p>
+      <p begin="444.919s" xml:id="p92" end="446.282s">You are both...</p>
+      <p begin="446.777s" xml:id="p93" end="447.897s">At least...</p>
+      <p begin="450.853s" xml:id="p94" end="452.913s">Yes, you are both...</p>
+      <p begin="455.55s" xml:id="p95" end="458.296s">Sir, can we please talk about Lars now?</p>
+      <p begin="461.19s" xml:id="p96" end="463.673s">Of course. Sorry,<br />how stupid of me.</p>
+      <p begin="464.0s" xml:id="p97" end="466.02s">Now I understand.<br />- What do you mean?</p>
+      <p begin="466.281s" xml:id="p98" end="468.629s">Well, you're putting it in the...</p>
+      <p begin="469.363s" xml:id="p99" end="471.959s">Right? And then the baby<br />also comes out of the...</p>
+      <p begin="473.08s" xml:id="p100" end="474.2s">Of course.</p>
+      <p begin="475.43s" xml:id="p101" end="477.427s">Shouldn't you just give Lars a wash?</p>
+      <p begin="492.06s" xml:id="p102" end="495.425s">All year round you give Armani<br />8. The whole year through!</p>
+      <p begin="495.478s" xml:id="p103" end="496.813s">I will give him an 8.</p>
+      <p begin="497.014s" xml:id="p104" end="498.185s">You give 8!</p>
+      <p begin="500.299s" xml:id="p105" end="502.399s">You give 8 all year round.</p>
+      <p begin="504.691s" xml:id="p106" end="505.81s">Yes...</p>
+      <p begin="541.704s" xml:id="p107" end="543.52s">The next parents may enter.</p>
+      <p begin="546.217s" xml:id="p108" end="548.592s">Hello dear boy.<br />- Mom and dad!</p>
+      <p begin="548.6s" xml:id="p109" end="550.4s">What are you doing here?</p>
+      <p begin="550.975s" xml:id="p110" end="553.083s">We heard that<br />it is parents' evening.</p>
+      <p begin="553.232s" xml:id="p111" end="555.744s">We reckoned:<br />We are parents too.</p>
+      <p begin="555.776s" xml:id="p112" end="558.448s">We're coming to<br />check on our son.</p>
+      <p begin="558.929s" xml:id="p113" end="561.312s">Come and give mom<br />and dad a hug, son.</p>
+      <p begin="562.686s" xml:id="p114" end="563.851s">Dad!</p>
+      <p begin="564.15s" xml:id="p115" end="568.06s">Oh, darling. You're getting<br />more handsome by the day.</p>
+      <p begin="568.11s" xml:id="p116" end="571.01s">Who is the strongest<br />boy in the whole world?</p>
+      <p begin="571.217s" xml:id="p117" end="573.936s">Who is the strongest<br />boy in the whole world?</p>
+      <p begin="574.0s" xml:id="p118" end="576.768s">That's me, dad.<br />- Well done, son.</p>
+      <p begin="577.018s" xml:id="p119" end="578.277s">Here you go.</p>
+      <p begin="582.464s" xml:id="p120" end="584.004s">How are you doing, son?</p>
+      <p begin="585.785s" xml:id="p121" end="590.05s">I'm fine, Mom, but<br />I find it difficult here.</p>
+      <p begin="590.1s" xml:id="p122" end="592.128s">All beginnings<br />are difficult.</p>
+      <p begin="592.175s" xml:id="p123" end="594.776s">But you can do it, I<br />know that for sure.</p>
+      <p begin="594.8s" xml:id="p124" end="598.14s">That is also true.<br />But they bully me so much.</p>
+      <p begin="598.547s" xml:id="p125" end="602.0s">That's because they are<br />jealous of your golden heart.</p>
+      <p begin="602.347s" xml:id="p126" end="604.487s">Should your old man<br />have a talk with them?</p>
+      <p begin="605.227s" xml:id="p127" end="606.51s">What is it they do?</p>
+      <p begin="607.388s" xml:id="p128" end="608.912s">They throw food at me.</p>
+      <p begin="609.105s" xml:id="p129" end="610.808s">And they throw me around.</p>
+      <p begin="611.097s" xml:id="p130" end="612.346s">They hit me.</p>
+      <p begin="612.807s" xml:id="p131" end="615.02s">Sometimes they don't<br />even show up to class.</p>
+      <p begin="615.07s" xml:id="p132" end="618.696s">Today, they fed me<br />hallucinogenic drugs.</p>
+      <p begin="620.842s" xml:id="p133" end="622.306s">Oh, but that's it!</p>
+      <p begin="622.868s" xml:id="p134" end="625.236s">It's so strange: We've<br />been dead for years.</p>
+      <p begin="640.346s" xml:id="p135" end="641.466s">Mom...</p>
+      <p begin="651.693s" xml:id="p136" end="655.473s">Jesus. Soon the whole<br />school will think I'm gay.</p>
+      <p begin="655.512s" xml:id="p137" end="657.318s">Whatever, you still have Mary.</p>
+      <p begin="661.108s" xml:id="p138" end="662.087s">Hey guys.</p>
+      <p begin="665.146s" xml:id="p139" end="666.56s">Oh fuck, there they are.</p>
+      <p begin="669.409s" xml:id="p140" end="672.03s">Okay, wish me luck.<br />I'll see you on the other side.</p>
+      <p begin="672.08s" xml:id="p141" end="673.434s">Toi, toi, toi, darling.</p>
+      <p begin="681.691s" xml:id="p142" end="683.29s">Dad, Svetlana...</p>
+      <p begin="683.77s" xml:id="p143" end="687.091s">I have to tell you something.<br />It's been going on for a while.</p>
+      <p begin="687.122s" xml:id="p144" end="690.56s">It is also the reason why things<br />are not going so well at school.</p>
+      <p begin="690.76s" xml:id="p145" end="691.593s">Hey guys!</p>
+      <p begin="692.43s" xml:id="p146" end="694.392s">Cannon ball!</p>
+      <p begin="695.293s" xml:id="p147" end="696.487s">I am a...</p>
+      <p begin="702.586s" xml:id="p148" end="704.23s">Who is that? Do I know him?</p>
+      <p begin="704.464s" xml:id="p149" end="706.12s">That's our math teacher.</p>
+      <p begin="706.121s" xml:id="p150" end="708.195s">Why did he do that?<br />- He's on drugs, dad.</p>
+      <p begin="708.21s" xml:id="p151" end="711.942s">It's always something at the<br />parents' evenings. Is this what I pay for?</p>
+      <p begin="713.989s" xml:id="p152" end="715.37s">[speaking Polish]</p>
+      <p begin="715.815s" xml:id="p153" end="717.02s">We are leaving.</p>
+      <p begin="718.738s" xml:id="p154" end="721.433s">What did you want to say?<br />- Oh, nothing, nevermind.</p>
+      <p begin="721.48s" xml:id="p155" end="723.455s">What are you wearing?<br />- He forced me to.</p>
+      <p begin="723.993s" xml:id="p156" end="725.055s">Dirty junkies.</p>
+      <p begin="729.41s" xml:id="p157" end="731.24s">Do you see how dangerous it is?</p>
+      <p begin="731.363s" xml:id="p158" end="736.24s">I told him there's a pool here<br />and he jumps out the window.</p>
+      <p begin="736.598s" xml:id="p159" end="739.291s">That's why you never use<br />drugs like these.</p>
+      <p begin="739.656s" xml:id="p160" end="742.093s">And above all, don't let<br />yourself be forced to!</p>
+      <p begin="742.329s" xml:id="p161" end="743.282s">Let's go.</p>
+      <p begin="751.247s" xml:id="p162" end="755.23s">Have you tried bleach<br />yet? It's amazing.</p>
+      <p begin="757.904s" xml:id="p163" end="760.324s">Hey dude, you're covered<br />in blood. Here you go.</p>
+      <p begin="767.319s" xml:id="p164" end="768.69s">Yes, it's all gone now.</p>
+      <p begin="774.807s" xml:id="p165" end="777.15s">Whole year round he gives you 8.</p>
+      <p begin="777.748s" xml:id="p166" end="778.626s">Thanks, Dad.</p>
+      <p begin="784.895s" xml:id="p167" end="787.441s">Help! Help me!</p>
+      <p begin="813.46s" xml:id="p168" end="814.58s">Thank you.</p>
+    </div>
+  </body>
+</tt>
